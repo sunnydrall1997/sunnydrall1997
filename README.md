@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnydrall1997
+- 👋 Hi, I’m @sunnygr897
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently pursuing Masters from DTU.
 
