@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sunny
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Developer.
 - 🌱 Write me up at sunnygr8.97@gmail.com
 
