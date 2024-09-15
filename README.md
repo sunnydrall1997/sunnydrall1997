@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sunnygr897
+- 👋 Hi, I’m Sunny
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently pursuing Masters from DTU.
+- 🌱 Write me up at sunnygr8.97@gmail.com
 
-<!---
-sunnydrall1997/sunnydrall1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
